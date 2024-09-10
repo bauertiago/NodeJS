@@ -52,3 +52,36 @@ Apresentar os dados
 - [x] criar
 - [x] executar
 - [x] arrow function/ function
+
+# Estrutura de repetição
+- [x] While
+    const start = () => {
+        let count = 0
+        while(count < 10){
+        console.log(count)
+        count++
+        }
+    }
+
+    start()
+
+# Condicionais
+- [x] switch
+    const start = () => {
+        while(true){
+            let opcao = "sair"
+            switch(opcao) {
+                case "cadastrar":
+                    console.log("vamos cadastrar")
+                    break
+                case "listar":
+                    console.log("vamos listar")
+                    break
+                case "sair":
+                    return
+            }
+        }
+    }
+    start()
+
+    

@@ -6,7 +6,7 @@ Como um lego, você irá utilizar peças para criar algoritmos, ou seja, para re
 
 ## Peças de uma linguagem
 
-- Comentários
+- [x] Comentários
 - Declaração de variáveis (const, let)
 - Operadores (atribuição, concatenação, matemáticos, lógicos)
 - Tipos de dados (String, number, boolean)
@@ -19,3 +19,18 @@ Como um lego, você irá utilizar peças para criar algoritmos, ou seja, para re
 Coletar os dados
 processar os dados (manipular, alterar ...)
 Apresentar os dados
+
+## Escopo e variáveis:
+
+- Variáveis globais e locais
+constantes
+
+## Tipos de dados:
+
+- Strings (textos): "" '' ``
+- number: 2 1.5
+- Function
+
+## Operadores
+
+- Operadores de atribuição de valor (=)

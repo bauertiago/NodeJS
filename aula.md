@@ -35,6 +35,7 @@ Apresentar os dados
 
 - [x] Operadores de atribuição de valor (=)
 - [x] Operador de concatenação (+)
+- [x] Operadores de comparação: (==, !=, <, >, <=, >=)
 
 ## Estruturas de dados:
 
@@ -83,6 +84,7 @@ Apresentar os dados
         }
     }
     start()
+- [x] if/else
 
 ## Módulos em Node.js:
 - [x] Importação de módulos (npm install inquirer, require, CommonJS)

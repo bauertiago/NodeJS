@@ -84,4 +84,10 @@ Apresentar os dados
     }
     start()
 
-    
+## Módulos em Node.js:
+- [x] Importação de módulos (npm install inquirer, require, CommonJS)
+- [x] Biblioteca 'inquirer' para criar prompts interativos
+
+## Programação assíncronas e promisas:
+
+- [x] Uso de funções assncronas ´(async/await)
